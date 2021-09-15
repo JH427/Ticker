@@ -1,0 +1,5 @@
+Query1
+	select * from So2122 where name is not null and requested is not null and date is null
+_____	
+Query2
+	select * from Wa2122 where name is not null and requested is not null and date is null
